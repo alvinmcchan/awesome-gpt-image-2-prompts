@@ -71,13 +71,13 @@
 > See all cases → [cases/ecommerce.md](cases/ecommerce_zh-TW.md)
 
 
-![A cute cat](./images/case_151.jfif "Cat Image")
+
 <!-- Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X) -->
 ### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg" width="300" alt="輸出圖像"></a> |
+| ![A cute cat](./images/case_151.jfif "輸出圖像") |
 
 **提示詞：**
 
